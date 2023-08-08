@@ -1,5 +1,3 @@
-function add(x: number, y: number): number {
-  return x + y;
-}
+import { add } from "./a";
 
 console.log(add(21, 5));
